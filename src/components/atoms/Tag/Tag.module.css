@@ -1,0 +1,14 @@
+.tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px var(--space-2);
+  border-radius: var(--radius-sm);
+  font-size: var(--text-xs);
+  font-weight: 600;
+}
+
+.pronunciation { background-color: #dbeafe; color: #1e40af; }
+.grammar       { background-color: #ede9fe; color: #5b21b6; }
+.vocab         { background-color: #fef3c7; color: #92400e; }
+.dialogue      { background-color: #d1fae5; color: #065f46; }
+.exercise      { background-color: #fee2e2; color: #991b1b; }

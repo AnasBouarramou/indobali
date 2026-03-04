@@ -1,0 +1,1240 @@
+{
+  "week": 1,
+  "title": "Semaine 1 — Cours complet",
+  "subtitle": "Prononciation · Salutations · Se présenter · Bases grammaticales",
+  "meta": {
+    "duration": "7 jours · 30-45 min/jour",
+    "vocabulary_count": 50,
+    "grammar_structures": 6,
+    "learner": "Anas",
+    "next_week": 2
+  },
+  "intro": {
+    "id": "intro",
+    "title": "Introduction — Comment le bahasa fonctionne",
+    "grammar_rules": [
+      {
+        "id": "gr-intro-1",
+        "number": 1,
+        "title": "Pas de conjugaison",
+        "explanation": "Le verbe ne change JAMAIS, quel que soit le sujet, le temps, ou le mode. Le verbe makan (manger) reste makan dans absolument tous les contextes.",
+        "example": { "indonesian": "Saya makan · Dia makan · Mereka makan", "french": "Je mange · Il mange · Ils mangent — toujours makan" },
+        "note": "Compare avec le français : manger, mange, manges, mangeons, mangez, mangent, mangeais, mangerai… En indonésien : makan. Point final."
+      },
+      {
+        "id": "gr-intro-2",
+        "number": 2,
+        "title": "Pas de genre grammatical",
+        "explanation": "Il n'existe pas de masculin/féminin. Le mot 'dia' signifie à la fois 'il' ET 'elle'. Pas d'accord d'adjectif, pas de 'un/une', pas de 'le/la'.",
+        "example": { "indonesian": "guru baru", "french": "nouveau professeur (homme OU femme)" },
+        "note": null
+      },
+      {
+        "id": "gr-intro-3",
+        "number": 3,
+        "title": "Pas d'articles",
+        "explanation": "Pas de le/la/les/un/une/des. La seule exception : le suffixe -nya qui joue le rôle de 'le/la' quand on veut être spécifique (vu en semaine 3).",
+        "example": { "indonesian": "Saya makan nasi", "french": "Je mange (du) riz — pas d'article" },
+        "note": null
+      },
+      {
+        "id": "gr-intro-4",
+        "number": 4,
+        "title": "Pas de verbe 'être'",
+        "explanation": "En indonésien, on juxtapose les mots. Le contexte crée le lien. Pas de 'est', 'suis', 'sommes'.",
+        "example": { "indonesian": "Saya orang Prancis", "french": "Je [suis] personne France → Je suis français" },
+        "note": null
+      },
+      {
+        "id": "gr-intro-5",
+        "number": 5,
+        "title": "Ordre SVO (Sujet + Verbe + Objet)",
+        "explanation": "L'ordre des mots est identique au français. Sujet, puis verbe, puis objet.",
+        "example": { "indonesian": "Saya makan nasi · Dia minum kopi", "french": "Je mange riz · Il/elle boit café" },
+        "note": null
+      },
+      {
+        "id": "gr-intro-6",
+        "number": 6,
+        "title": "Adjectif après le nom",
+        "explanation": "Comme en français, l'adjectif se place après le nom qu'il qualifie.",
+        "example": { "indonesian": "kopi panas · air dingin · orang baik", "french": "café chaud · eau froide · personne gentille" },
+        "note": null
+      }
+    ],
+    "differences": [
+      { "concept": "Le temps (passé/futur)", "french": "Conjugaison complexe", "indonesian": "Marqueur devant le verbe : sudah (passé), mau/akan (futur)" },
+      { "concept": "Le pluriel", "french": "Ajout de -s / -x", "indonesian": "Répétition du mot : anak → anak-anak (enfants)" },
+      { "concept": "Nous", "french": "Un seul 'nous'", "indonesian": "kita (toi inclus) vs kami (toi exclu)" },
+      { "concept": "La politesse", "french": "Tu / Vous", "indonesian": "Plusieurs niveaux : saya (poli), aku (intime), + titres" },
+      { "concept": "Les préfixes/suffixes", "french": "Peu de préfixes", "indonesian": "Système riche : me-, ber-, di-, -kan, -an (progressif)" }
+    ],
+    "borrowed_words": [
+      {
+        "source": "Néerlandais",
+        "context": "colonisation 350 ans",
+        "words": [
+          { "indonesian": "handuk", "dutch": "handdoek", "french": "serviette" },
+          { "indonesian": "kantor", "dutch": "kantoor", "french": "bureau" },
+          { "indonesian": "gratis", "dutch": "gratis", "french": "gratuit" }
+        ]
+      },
+      {
+        "source": "Portugais",
+        "context": "premiers Européens",
+        "words": [
+          { "indonesian": "mentega", "origin": "manteiga", "french": "beurre" },
+          { "indonesian": "gereja", "origin": "igreja", "french": "église" },
+          { "indonesian": "bendera", "origin": "bandeira", "french": "drapeau" }
+        ]
+      },
+      {
+        "source": "Arabe",
+        "context": "commerce + Islam",
+        "words": [
+          { "indonesian": "kursi", "french": "chaise" },
+          { "indonesian": "dunia", "french": "monde" },
+          { "indonesian": "maaf", "french": "pardon" }
+        ]
+      },
+      {
+        "source": "Sanskrit",
+        "context": "influence hindoue",
+        "words": [
+          { "indonesian": "bahasa", "french": "langue" },
+          { "indonesian": "guru", "french": "professeur" },
+          { "indonesian": "raja", "french": "roi" },
+          { "indonesian": "desa", "french": "village" }
+        ]
+      },
+      {
+        "source": "Anglais",
+        "context": "moderne",
+        "words": [
+          { "indonesian": "hotel", "french": "hôtel" },
+          { "indonesian": "taksi", "french": "taxi" },
+          { "indonesian": "komputer", "french": "ordinateur" },
+          { "indonesian": "internet", "french": "internet" },
+          { "indonesian": "televisi", "french": "télévision" }
+        ]
+      },
+      {
+        "source": "Français",
+        "context": "quelques mots",
+        "words": [
+          { "indonesian": "sopir", "french": "chauffeur" },
+          { "indonesian": "restoran", "french": "restaurant" }
+        ]
+      }
+    ],
+    "vocabulary": [],
+    "exercises": []
+  },
+  "days": [
+    {
+      "id": "jour1",
+      "number": 1,
+      "title": "La prononciation : maîtriser tous les sons",
+      "duration": "35-45 min",
+      "objective": "Maîtriser la phonétique de l'indonésien, une langue quasi parfaitement phonétique (chaque lettre = un son fixe, jamais de lettres muettes).",
+      "sections": [],
+      "grammar_rules": [
+        {
+          "id": "gr-j1-u",
+          "number": 1,
+          "title": "Voyelle U → toujours « ou »",
+          "explanation": "C'est l'erreur n°1 des francophones. Le 'u' indonésien se prononce TOUJOURS 'ou' comme dans 'loup'. JAMAIS comme le 'u' français de 'lune'.",
+          "example": { "indonesian": "satu · guru · buku · untuk", "french": "sa-TOU · gou-ROU · bou-KOU · oun-TOUK" },
+          "note": "Pense à 'ou' à chaque fois que tu vois un 'u'.",
+          "cultural_note": { "text": "Le mot 'guru' (professeur) est identique en hindi, swahili et indonésien ! Il vient du Sanskrit et a voyagé avec les marchands indiens dès le 1er siècle. À Bali, le 'guru' est une figure sacrée — les enfants s'inclinent devant lui.", "fun_fact": "En balinais, on dit 'guru' pour 'professeur' et aussi pour désigner un maître spirituel hindou. Le même mot, deux mondes." }
+        },
+        {
+          "id": "gr-j1-e",
+          "number": 2,
+          "title": "Voyelle E → deux prononciations (muet par défaut)",
+          "explanation": "Prononciation 1 (80% des cas) : 'e' muet (ə) comme dans 'le', 'me', 'ce'. Prononciation 2 (rare) : 'é' ouvert comme dans 'père'. Dans le doute, utiliser le 'e' muet.",
+          "example": { "indonesian": "besar · dengan · selamat · enak · sore", "french": "bə-SAR · də-ŋane · sə-la-mat · é-nak · so-RÉ" },
+          "note": "Exception : quand l'avant-dernière syllabe contient un 'e' muet, l'accent se déplace sur la dernière syllabe. Ex : beSAR, beLUM."
+        },
+        {
+          "id": "gr-j1-c",
+          "number": 3,
+          "title": "Consonne C → toujours « tch »",
+          "explanation": "En indonésien, le 'c' fait TOUJOURS 'tch', comme dans 'tchèque' ou 'match'. Même devant a, o, u.",
+          "example": { "indonesian": "cari · cukup · kecil · cuci · cepat", "french": "TCHa-ri · TCHou-koupe · kə-TCHIL · TCHou-tchi · tchə-PAT" },
+          "note": "Mnémotechnique : penser à 'CIao' en italien, mais en indonésien c'est TOUJOURS tch.",
+          "cultural_note": { "text": "Le mot 'becak' (triporteur à trois roues, le taxi vintage de Java et Bali) se prononce 'bé-TCHAK'. Ces véhicules colorés existent depuis les années 1930 et sont encore utilisés dans les villes de Bali comme Singaraja. Une course de becak, c'est l'aventure locale !", "fun_fact": "À Jakarta, les becaks ont été bannis du centre-ville en 1994 pour fluidifier la circulation — mais à Bali et Yogyakarta, ils restent un symbole culturel vivant." }
+        },
+        {
+          "id": "gr-j1-j",
+          "number": 4,
+          "title": "Consonne J → « dj » (comme Django)",
+          "explanation": "Le 'j' indonésien se prononce 'dj', comme dans 'Django' ou le 'j' anglais de 'jam'. Jamais comme le 'j' français de 'joli'.",
+          "example": { "indonesian": "jalan · juga · jam · manja", "french": "DJa-lane · DJou-ga · DJam · man-DJa" },
+          "note": "Piège classique : 'jalan' (route). Un francophone dira instinctivement 'ja-lan'."
+        },
+        {
+          "id": "gr-j1-g",
+          "number": 5,
+          "title": "Consonne G → toujours dur",
+          "explanation": "En indonésien, le 'g' est TOUJOURS dur, comme dans 'gare', même devant e ou i.",
+          "example": { "indonesian": "gila · pergi · gelas · goreng", "french": "GUI-la · pər-GUI · GUÉ-lass · go-RÈNGUE" },
+          "note": null
+        },
+        {
+          "id": "gr-j1-ng",
+          "number": 6,
+          "title": "Son NG → nasal unique [ŋ]",
+          "explanation": "C'est UN SEUL son nasal, pas 'n' + 'g'. Le son de la fin de 'parking' ou 'camping' en français. Ne pas séparer les deux lettres.",
+          "example": { "indonesian": "dengan · orang · uang · goreng", "french": "də-ŋane · o-raŋ · ou-aŋ · go-rèŋ" },
+          "note": "Distinction : 'ng' [ŋ] vs 'ngg' [ŋg]. Ex: tanggal (date) = taŋ-gal avec un vrai 'g' après le nasal."
+        },
+        {
+          "id": "gr-j1-ny",
+          "number": 7,
+          "title": "Son NY → comme « gn » en français",
+          "explanation": "Ce son existe en français : le son 'gn' de 'montagne', 'champagne', 'agneau'.",
+          "example": { "indonesian": "nyaman · banyak · nyanyi", "french": "GNa-mane (comme montaGNE) · ba-GNAK · GNA-gni" },
+          "note": null
+        },
+        {
+          "id": "gr-j1-h",
+          "number": 8,
+          "title": "Consonne H → toujours expiré",
+          "explanation": "Le 'h' se prononce TOUJOURS. C'est une expiration légère, comme le 'h' anglais de 'hello'. Ne jamais le rendre muet.",
+          "example": { "indonesian": "habis · hari · sudah · marah", "french": "Ha-biss · Ha-ri · sou-daH · ma-raH" },
+          "note": null
+        },
+        {
+          "id": "gr-j1-r",
+          "number": 9,
+          "title": "Consonne R → roulé",
+          "explanation": "Roulé comme en espagnol, en italien, ou en arabe. Produit par la vibration du bout de la langue contre le palais. Pas le 'r' guttural français.",
+          "example": { "indonesian": "rumah · dari · besar · terima kasih", "french": "Rou-maH · da-ri · bə-SAR · tə-RI-ma KA-sih" },
+          "note": "Si on n'arrive pas à rouler le 'r', un 'r' français sera compris pour un débutant."
+        },
+        {
+          "id": "gr-j1-accent",
+          "number": 10,
+          "title": "Accent tonique → avant-dernière syllabe",
+          "explanation": "L'accent tonique tombe généralement sur l'avant-dernière syllabe (~90% des cas). Exception : quand l'avant-dernière syllabe contient un 'e' muet (ə), l'accent se déplace sur la dernière.",
+          "example": { "indonesian": "se-LA-mat · te-RI-ma · MA-kan · in-do-NE-sia", "french": "Accent sur la syllabe en majuscules" },
+          "note": "Exceptions : beSAR, beLUM (e muet → accent sur la dernière)."
+        }
+      ],
+      "vocabulary": [
+        { "id": "j1-v1", "indonesian": "cari", "french": "chercher", "pronunciation": "TCHa-ri", "example": "Saya cari jalan.", "note": "c = tch" },
+        { "id": "j1-v2", "indonesian": "jalan", "french": "route / rue", "pronunciation": "DJa-lane", "example": "Jalan ke rumah.", "note": "j = dj" },
+        { "id": "j1-v3", "indonesian": "goreng", "french": "frit / frire", "pronunciation": "go-RÈNG", "example": "nasi goreng", "note": "g dur + ng nasal" },
+        { "id": "j1-v4", "indonesian": "nyaman", "french": "confortable", "pronunciation": "GNa-mane", "example": "Sangat nyaman!", "note": "ny = gn" },
+        { "id": "j1-v5", "indonesian": "dengan", "french": "avec", "pronunciation": "də-NGANE", "example": "kopi dengan gula", "note": "ng = nasal [ŋ]" },
+        { "id": "j1-v6", "indonesian": "habis", "french": "fini / épuisé", "pronunciation": "Ha-biss", "example": "Habis!", "note": "h expiré" },
+        { "id": "j1-v7", "indonesian": "satu", "french": "un (1)", "pronunciation": "sa-TOU", "example": "Satu kopi.", "note": "u = ou !" },
+        { "id": "j1-v8", "indonesian": "tujuh", "french": "sept (7)", "pronunciation": "tou-DJOUH", "example": "tujuh hari", "note": "u=ou + j=dj + h final" },
+        { "id": "j1-v9", "indonesian": "besar", "french": "grand", "pronunciation": "bə-SAR", "example": "Rumah besar.", "note": "e muet → accent sur dernière syllabe" },
+        { "id": "j1-v10", "indonesian": "rumah", "french": "maison", "pronunciation": "Rou-maH", "example": "rumah saya", "note": "r roulé + h final expiré" },
+        { "id": "j1-v11", "indonesian": "guru", "french": "professeur", "pronunciation": "gou-ROU", "example": "guru bahasa", "note": "u = ou (deux fois !)" },
+        { "id": "j1-v12", "indonesian": "buku", "french": "livre", "pronunciation": "bou-KOU", "example": "buku bahasa Indonesia", "note": "u = ou" },
+        { "id": "j1-v13", "indonesian": "kecil", "french": "petit", "pronunciation": "kə-TCHIL", "example": "Kecil sekali!", "note": "c = tch" },
+        { "id": "j1-v14", "indonesian": "pergi", "french": "partir / aller", "pronunciation": "pər-GUI", "example": "Saya mau pergi.", "note": "g dur devant i" },
+        { "id": "j1-v15", "indonesian": "enak", "french": "délicieux", "pronunciation": "É-nak", "example": "Enak sekali!", "note": "e ouvert (exception)" }
+      ],
+      "exercises": [
+        {
+          "id": "j1-ex1",
+          "type": "mcq",
+          "question": "Comment prononce-t-on le mot 'cari' (chercher) ?",
+          "options": ["ka-ri", "sa-ri", "tcha-ri", "cha-ri"],
+          "correctIndex": 2
+        },
+        {
+          "id": "j1-ex2",
+          "type": "mcq",
+          "question": "Le 'u' dans 'satu' (un) se prononce comme :",
+          "options": ["le 'u' de 'lune'", "le 'ou' de 'loup'", "le 'eu' de 'feu'", "le 'u' de 'but'"],
+          "correctIndex": 1
+        },
+        {
+          "id": "j1-ex3",
+          "type": "mcq",
+          "question": "Comment prononce-t-on 'jalan' (route) ?",
+          "options": ["ja-lan (comme 'joli')", "dja-lane (comme 'Django')", "sha-lane", "ya-lane"],
+          "correctIndex": 1
+        },
+        {
+          "id": "j1-ex4",
+          "type": "mcq",
+          "question": "Le son 'ng' dans 'orang' (personne) est :",
+          "options": ["n + g séparés", "un son nasal unique (comme dans 'parking')", "le 'g' est muet", "un son guttural"],
+          "correctIndex": 1
+        },
+        {
+          "id": "j1-ex5",
+          "type": "mcq",
+          "question": "Paire minimale : lequel contient le son 'tch' ?",
+          "options": ["kari", "dari", "cari", "lari"],
+          "correctIndex": 2
+        },
+        {
+          "id": "j1-ex6",
+          "type": "mcq",
+          "question": "Sur quelle syllabe tombe l'accent dans 'selamat' ?",
+          "options": ["se-LA-mat (2e syllabe)", "SE-la-mat (1ère syllabe)", "se-la-MAT (3e syllabe)", "partout également"],
+          "correctIndex": 0
+        },
+        {
+          "id": "j1-ex7",
+          "type": "swipe",
+          "instruction": "Vrai ou Faux — Prononciation ?",
+          "cards": [
+            { "statement": "Le 'u' de 'guru' se prononce comme le 'u' de 'lune'", "is_true": false, "emoji": "🔤", "indonesian": "guru = gou-ROU" },
+            { "statement": "Le 'c' de 'cari' se prononce 'tch'", "is_true": true, "emoji": "✔️", "indonesian": "cari = TCHa-ri" },
+            { "statement": "Le 'j' de 'jalan' se prononce comme le 'j' de 'jardin'", "is_true": false, "emoji": "🚧", "indonesian": "jalan = DJa-lane" },
+            { "statement": "Le 'g' de 'gila' est toujours dur (comme dans 'gare')", "is_true": true, "emoji": "✅", "indonesian": "gila = GUI-la" },
+            { "statement": "Le 'ng' de 'orang' se prononce en deux sons séparés : n + g", "is_true": false, "emoji": "🔊", "indonesian": "orang = o-RAŊ (nasal unique)" },
+            { "statement": "Le 'h' de 'habis' est muet, on ne le prononce pas", "is_true": false, "emoji": "💨", "indonesian": "habis = Ha-biss (h expiré)" }
+          ]
+        },
+        {
+          "id": "j1-ex8",
+          "type": "memory",
+          "instruction": "Associe le mot et sa prononciation !",
+          "pairs": [
+            { "indonesian": "satu", "french": "sa-TOU" },
+            { "indonesian": "cari", "french": "TCHa-ri" },
+            { "indonesian": "jalan", "french": "DJa-lane" },
+            { "indonesian": "goreng", "french": "go-RÈNG" },
+            { "indonesian": "nyaman", "french": "GNa-mane" },
+            { "indonesian": "dengan", "french": "də-NGANE" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jour2",
+      "number": 2,
+      "title": "Les salutations et la politesse",
+      "duration": "30-40 min",
+      "objective": "Apprendre les 4 salutations horaires et les 8 mots de politesse essentiels.",
+      "sections": [],
+      "grammar_rules": [
+        {
+          "id": "gr-j2-selamat",
+          "number": 1,
+          "title": "Le mot 'selamat' — origine et sens",
+          "explanation": "Vient de l'arabe 'salama' (paix, sûreté). Signifie littéralement 'béni', 'en sûreté', 'sain et sauf'. Racine de presque toutes les formules de politesse.",
+          "example": { "indonesian": "Selamat pagi / siang / sore / malam", "french": "Matin béni / Midi béni / Après-midi béni / Nuit bénie" },
+          "note": "À Bali, les gens disent souvent simplement 'Pagi!', 'Siang!', 'Sore!', 'Malam!' sans le 'selamat' (version décontractée, comme dire \"'jour!\" en français).",
+          "cultural_note": { "text": "Le mot 'selamat' vient de l'arabe 'سَلَامَة' (salāma = paix, sûreté), lui-même de la même racine que 'Salam' et 'Islam'. Les marchands arabes ont apporté l'islam à Java et Sumatra dès le 7ème siècle, et avec lui, ces formules de salutation. À Bali (île hindoue), on dit aussi 'Om Swastyastu' pour se saluer.", "fun_fact": "L'Indonésie est le pays avec la plus grande population musulmane du monde (~230 millions), mais à Bali (majorité hindoue), cohabitent harmonieusement hindouisme, islam, bouddhisme et christianisme." }
+        },
+        {
+          "id": "gr-j2-jalan-tinggal",
+          "number": 2,
+          "title": "Selamat jalan vs Selamat tinggal",
+          "explanation": "'Selamat jalan' se dit à la personne qui PART. 'Selamat tinggal' se dit à la personne qui RESTE. En cas de doute, 'sampai jumpa' (à bientôt) marche dans tous les cas.",
+          "example": { "indonesian": "Selamat jalan! / Selamat tinggal!", "french": "Bon voyage! (à celui qui part) / Au revoir! (à celui qui reste)" },
+          "note": null
+        }
+      ],
+      "vocabulary": [
+        { "id": "j2-v1", "indonesian": "Selamat pagi", "french": "Bonjour (matin)", "pronunciation": "sə-la-mat pa-gi", "example": null, "note": "6h → 11h" },
+        { "id": "j2-v2", "indonesian": "Selamat siang", "french": "Bonjour (midi)", "pronunciation": "sə-la-mat si-ang", "example": null, "note": "11h → 15h" },
+        { "id": "j2-v3", "indonesian": "Selamat sore", "french": "Bonjour (après-midi)", "pronunciation": "sə-la-mat so-ré", "example": null, "note": "15h → 18h" },
+        { "id": "j2-v4", "indonesian": "Selamat malam", "french": "Bonsoir", "pronunciation": "sə-la-mat ma-lam", "example": null, "note": "après 18h" },
+        { "id": "j2-v5", "indonesian": "Selamat tidur", "french": "Bonne nuit", "pronunciation": "sə-la-mat ti-dour", "example": null, "note": "au coucher" },
+        { "id": "j2-v6", "indonesian": "Selamat jalan", "french": "Au revoir (à celui qui part)", "pronunciation": "sə-la-mat dja-lane", "example": null, "note": "dit à la personne qui part" },
+        { "id": "j2-v7", "indonesian": "Selamat tinggal", "french": "Au revoir (à celui qui reste)", "pronunciation": "sə-la-mat ting-gal", "example": null, "note": "dit à la personne qui reste" },
+        { "id": "j2-v8", "indonesian": "Selamat makan", "french": "Bon appétit", "pronunciation": "sə-la-mat ma-kane", "example": null, "note": "repas béni" },
+        { "id": "j2-v9", "indonesian": "Selamat datang", "french": "Bienvenue", "pronunciation": "sə-la-mat da-tang", "example": null, "note": "arrivée bénie" },
+        { "id": "j2-v10", "indonesian": "Terima kasih", "french": "Merci", "pronunciation": "tə-RI-ma KA-sih", "example": null, "note": "Littéralement 'recevoir amour'. Oral : Makasih!" },
+        { "id": "j2-v11", "indonesian": "Sama-sama", "french": "De rien", "pronunciation": "sa-ma sa-ma", "example": null, "note": "Littéralement 'pareil-pareil'" },
+        { "id": "j2-v12", "indonesian": "Permisi", "french": "Excusez-moi", "pronunciation": "pər-MI-si", "example": null, "note": "Pour passer, attirer l'attention" },
+        { "id": "j2-v13", "indonesian": "Maaf", "french": "Pardon / Désolé", "pronunciation": "MA-af", "example": null, "note": "De l'arabe 'معاف'. Deux syllabes : MA-af." },
+        { "id": "j2-v14", "indonesian": "Tolong", "french": "S'il vous plaît / Aidez", "pronunciation": "TO-longue", "example": "Tolong, minta bon.", "note": "Double sens : 'SVP' et 'au secours'" },
+        { "id": "j2-v15", "indonesian": "Ya", "french": "Oui", "pronunciation": "ya", "example": null, "note": null },
+        { "id": "j2-v16", "indonesian": "Tidak", "french": "Non", "pronunciation": "TI-dak", "example": "Tidak, terima kasih.", "note": "Oral familier : 'nggak' ou 'enggak'" },
+        { "id": "j2-v17", "indonesian": "Sampai jumpa", "french": "À bientôt", "pronunciation": "sam-pai djum-pa", "example": null, "note": "Marche dans tous les contextes d'au revoir" },
+        { "id": "j2-v18", "indonesian": "Terima kasih banyak", "french": "Merci beaucoup", "pronunciation": "tə-RI-ma KA-sih ba-nyak", "example": null, "note": "banyak = beaucoup" }
+      ],
+      "exercises": [
+        {
+          "id": "j2-ex1",
+          "type": "mcq",
+          "question": "Il est 9h du matin, tu entres dans un café. Tu dis :",
+          "options": ["Selamat pagi!", "Selamat siang!", "Selamat sore!", "Selamat malam!"],
+          "correctIndex": 0
+        },
+        {
+          "id": "j2-ex2",
+          "type": "mcq",
+          "question": "Il est 13h, tu arrives dans un restaurant. Tu dis :",
+          "options": ["Selamat pagi!", "Selamat siang!", "Selamat sore!", "Selamat malam!"],
+          "correctIndex": 1
+        },
+        {
+          "id": "j2-ex3",
+          "type": "mcq",
+          "question": "Il est 16h30, tu entres dans une boutique. Tu dis :",
+          "options": ["Selamat pagi!", "Selamat siang!", "Selamat sore!", "Selamat malam!"],
+          "correctIndex": 2
+        },
+        {
+          "id": "j2-ex4",
+          "type": "mcq",
+          "question": "Il est 20h, tu arrives à ton hôtel. Tu dis :",
+          "options": ["Selamat pagi!", "Selamat siang!", "Selamat sore!", "Selamat malam!"],
+          "correctIndex": 3
+        },
+        {
+          "id": "j2-ex5",
+          "type": "mcq",
+          "question": "Tu veux passer dans une allée étroite. Tu dis :",
+          "options": ["Maaf!", "Tolong!", "Permisi!", "Sama-sama!"],
+          "correctIndex": 2
+        },
+        {
+          "id": "j2-ex6",
+          "type": "mcq",
+          "question": "Tu as marché sur le pied de quelqu'un. Tu dis :",
+          "options": ["Permisi!", "Maaf!", "Terima kasih!", "Tolong!"],
+          "correctIndex": 1
+        },
+        {
+          "id": "j2-ex7",
+          "type": "mcq",
+          "question": "Quelqu'un te dit 'Terima kasih'. Tu réponds :",
+          "options": ["Ya!", "Maaf!", "Sama-sama!", "Permisi!"],
+          "correctIndex": 2
+        },
+        {
+          "id": "j2-ex8",
+          "type": "mcq",
+          "question": "Tu quites ton chauffeur Grab. Tu lui dis :",
+          "options": ["Selamat datang!", "Selamat jalan!", "Selamat tinggal!", "Selamat tidur!"],
+          "correctIndex": 1
+        },
+        {
+          "id": "j2-ex9",
+          "type": "matching",
+          "instruction": "Associe chaque salutation à son horaire correct.",
+          "pairs": [
+            { "left": "Selamat pagi", "right": "6h – 11h (matin)" },
+            { "left": "Selamat siang", "right": "11h – 15h (midi)" },
+            { "left": "Selamat sore", "right": "15h – 18h (après-midi)" },
+            { "left": "Selamat malam", "right": "après 18h (soir)" }
+          ]
+        },
+        {
+          "id": "j2-ex10",
+          "type": "swipe",
+          "instruction": "Vrai ou Faux — Politesse ?",
+          "cards": [
+            { "statement": "'Terima kasih' signifie 'De rien'", "is_true": false, "emoji": "🙏", "indonesian": "Terima kasih = Merci" },
+            { "statement": "'Sama-sama' est la réponse à 'terima kasih'", "is_true": true, "emoji": "✅", "indonesian": "Sama-sama = De rien" },
+            { "statement": "'Permisi' s'utilise pour demander pardon d'une faute", "is_true": false, "emoji": "🚶", "indonesian": "Permisi = Excusez-moi (pour passer)" },
+            { "statement": "'Selamat jalan' se dit à la personne qui PART", "is_true": true, "emoji": "✈️", "indonesian": "Selamat jalan = Bon voyage !" },
+            { "statement": "'Maaf' vient du Sanskrit", "is_true": false, "emoji": "📖", "indonesian": "Maaf vient de l'arabe" }
+          ]
+        },
+        {
+          "id": "j2-ex11",
+          "type": "memory",
+          "instruction": "Associe le mot indonésien et sa traduction !",
+          "pairs": [
+            { "indonesian": "Terima kasih", "french": "Merci" },
+            { "indonesian": "Sama-sama", "french": "De rien" },
+            { "indonesian": "Permisi", "french": "Excusez-moi" },
+            { "indonesian": "Maaf", "french": "Pardon / Désolé" },
+            { "indonesian": "Tolong", "french": "S'il vous plaît" },
+            { "indonesian": "Sampai jumpa", "french": "À bientôt" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jour3",
+      "number": 3,
+      "title": "Se présenter et les pronoms",
+      "duration": "35-45 min",
+      "objective": "Construire ses premières phrases : se présenter complètement, demander le nom de quelqu'un, comprendre sa réponse.",
+      "sections": [],
+      "grammar_rules": [
+        {
+          "id": "gr-j3-nom",
+          "number": 1,
+          "title": "Dire son nom : Nama + pronom + nom",
+          "explanation": "Structure : Nama (nom) + saya (moi) + prénom. Pas de verbe 'être'. Pas de 'je m'appelle'. La juxtaposition suffit.",
+          "example": { "indonesian": "Nama saya Anas.", "french": "Nom moi Anas → Mon nom est Anas." },
+          "note": "'Siapa nama kamu?' et 'Nama kamu siapa?' sont TOUS LES DEUX corrects. L'indonésien est flexible sur la position du mot interrogatif."
+        },
+        {
+          "id": "gr-j3-nationalite",
+          "number": 2,
+          "title": "Dire sa nationalité : pronom + orang + pays",
+          "explanation": "Orang = personne. 'Saya orang Prancis' = littéralement 'Je personne France'. Pas de verbe 'être' nécessaire.",
+          "example": { "indonesian": "Saya orang Prancis. / Dia orang Indonesia.", "french": "Je suis français. / Il/elle est indonésien(ne)." },
+          "note": null
+        },
+        {
+          "id": "gr-j3-origine",
+          "number": 3,
+          "title": "Dire d'où on vient : pronom + dari + lieu",
+          "explanation": "Dari = de / depuis (origine). Structure simple : pronom + dari + ville ou pays.",
+          "example": { "indonesian": "Saya dari Paris. / Kamu dari mana?", "french": "Je viens de Paris. / Tu viens d'où ?" },
+          "note": null
+        },
+        {
+          "id": "gr-j3-kita-kami",
+          "number": 4,
+          "title": "Kita vs Kami — deux mots pour 'nous'",
+          "explanation": "Kita = nous INCLUSIF (toi + moi + d'autres). Kami = nous EXCLUSIF (moi + d'autres, SANS toi). En cas de doute, utiliser 'kita' (plus chaleureux).",
+          "example": { "indonesian": "Kita makan, ya? / Kami dari Prancis.", "french": "On mange tous ensemble (toi inclus) / Nous venons de France (pas toi)" },
+          "note": "Au restaurant avec un ami français, tu dis 'Kami dari Prancis' au serveur (pas lui).",
+          "cultural_note": { "text": "Peu de langues au monde font cette distinction 'nous inclusif / exclusif' aussi clairement. Le tamoul, le japonais, le quechua et plusieurs langues austronésiennes partagent ce trait. C'est un vestige de l'époque où les communautés balinaises vivaient en groupes serrés (banjar), où savoir si l'interlocuteur était 'inclus' dans le groupe était crucial socialement.", "fun_fact": "À Bali, la vie sociale est organisée autour du 'banjar' (quartier communautaire). Chaque balinais appartient à son banjar, qui gère les cérémonies, les décisions collectives, et même les funérailles. 'Kita' ou 'Kami' n'est jamais un simple pronom, c'est une déclaration d'appartenance." }
+        }
+      ],
+      "vocabulary": [
+        { "id": "j3-v1", "indonesian": "Saya", "french": "Je / moi (poli)", "pronunciation": "SA-ya", "example": "Saya dari Paris.", "note": "Utiliser par défaut. Correct dans 100% des situations." },
+        { "id": "j3-v2", "indonesian": "Aku", "french": "Je / moi (familier)", "pronunciation": "A-kou", "example": "Aku mau kopi.", "note": "Uniquement avec des amis proches, du même âge." },
+        { "id": "j3-v3", "indonesian": "Kamu", "french": "Tu (courant)", "pronunciation": "KA-mou", "example": "Kamu dari mana?", "note": "Le plus courant à Bali, avec des gens de ton âge." },
+        { "id": "j3-v4", "indonesian": "Anda", "french": "Vous (formel)", "pronunciation": "AN-da", "example": "Anda mau apa?", "note": "Dans les commerces, avec des inconnus plus âgés. Rare à l'oral." },
+        { "id": "j3-v5", "indonesian": "Dia", "french": "Il / Elle", "pronunciation": "DI-a", "example": "Dia orang Bali.", "note": "Pas de distinction de genre !" },
+        { "id": "j3-v6", "indonesian": "Kita", "french": "Nous (inclusif)", "pronunciation": "KI-ta", "example": "Kita makan bersama!", "note": "Inclut l'interlocuteur — tout le monde ensemble." },
+        { "id": "j3-v7", "indonesian": "Kami", "french": "Nous (exclusif)", "pronunciation": "KA-mi", "example": "Kami dari Prancis.", "note": "Exclut l'interlocuteur." },
+        { "id": "j3-v8", "indonesian": "Mereka", "french": "Ils / Elles", "pronunciation": "mə-RÉ-ka", "example": "Mereka orang Australia.", "note": "Pas de distinction de genre !" },
+        { "id": "j3-v9", "indonesian": "nama", "french": "nom", "pronunciation": "NA-ma", "example": "Nama saya Anas.", "note": null },
+        { "id": "j3-v10", "indonesian": "orang", "french": "personne / gens", "pronunciation": "o-RANG", "example": "Saya orang Prancis.", "note": "Aussi utilisé pour indiquer la nationalité" },
+        { "id": "j3-v11", "indonesian": "dari", "french": "de / depuis", "pronunciation": "da-ri", "example": "Saya dari Paris.", "note": "Indique l'origine" },
+        { "id": "j3-v12", "indonesian": "senang", "french": "content / heureux", "pronunciation": "sə-NANG", "example": "Senang berkenalan!", "note": null },
+        { "id": "j3-v13", "indonesian": "berkenalan", "french": "faire connaissance", "pronunciation": "bər-kə-NA-lan", "example": "Senang berkenalan.", "note": "De 'kenal' (connaître) + préfixe ber-" },
+        { "id": "j3-v14", "indonesian": "Prancis", "french": "France / français", "pronunciation": "PRAN-sis", "example": "Saya orang Prancis.", "note": null },
+        { "id": "j3-v15", "indonesian": "mana", "french": "où / lequel", "pronunciation": "MA-na", "example": "Dari mana?", "note": "Utilisé dans 'dari mana' et 'di mana'" }
+      ],
+      "exercises": [
+        {
+          "id": "j3-ex1",
+          "type": "reveal",
+          "question": "Traduis : 'Mon nom est Anas.'",
+          "answer": "Nama saya Anas."
+        },
+        {
+          "id": "j3-ex2",
+          "type": "reveal",
+          "question": "Traduis : 'Je suis français.'",
+          "answer": "Saya orang Prancis."
+        },
+        {
+          "id": "j3-ex3",
+          "type": "reveal",
+          "question": "Traduis : 'Je viens de Paris.'",
+          "answer": "Saya dari Paris."
+        },
+        {
+          "id": "j3-ex4",
+          "type": "reveal",
+          "question": "Traduis : 'Comment tu t'appelles ?'",
+          "answer": "Siapa nama kamu? (ou : Nama kamu siapa?)"
+        },
+        {
+          "id": "j3-ex5",
+          "type": "reveal",
+          "question": "Traduis : 'Tu viens d'où ?'",
+          "answer": "Kamu dari mana?"
+        },
+        {
+          "id": "j3-ex6",
+          "type": "reveal",
+          "question": "Traduis : 'Enchanté.'",
+          "answer": "Senang berkenalan."
+        },
+        {
+          "id": "j3-ex7",
+          "type": "mcq",
+          "question": "Tu parles à un serveur de l'Indonésie avec ton ami français. Pour dire 'nous venons de France', tu utilises :",
+          "options": ["Kita dari Prancis.", "Kami dari Prancis.", "Saya dari Prancis.", "Mereka dari Prancis."],
+          "correctIndex": 1
+        },
+        {
+          "id": "j3-ex8",
+          "type": "mcq",
+          "question": "Tu invites tout le monde (y compris le serveur) à manger. Tu dis :",
+          "options": ["Kami makan bersama!", "Kamu makan bersama!", "Kita makan bersama!", "Mereka makan bersama!"],
+          "correctIndex": 2
+        },
+        {
+          "id": "j3-ex9",
+          "type": "sentence_builder",
+          "instruction": "Construis la phrase : 'Je suis français.'",
+          "words": ["Saya", "orang", "Prancis", "dari", "makan", "nama"],
+          "correctSentence": ["Saya", "orang", "Prancis"]
+        },
+        {
+          "id": "j3-ex10",
+          "type": "sentence_builder",
+          "instruction": "Construis la phrase : 'Je viens de Paris.'",
+          "words": ["Saya", "dari", "Paris", "orang", "nama", "ke"],
+          "correctSentence": ["Saya", "dari", "Paris"]
+        },
+        {
+          "id": "j3-ex11",
+          "type": "swipe",
+          "instruction": "Vrai ou Faux — Pronoms ?",
+          "cards": [
+            { "statement": "'Dia' signifie uniquement 'il', pas 'elle'", "is_true": false, "emoji": "👤", "indonesian": "Dia = il ET elle" },
+            { "statement": "'Kita' inclut la personne à qui on parle", "is_true": true, "emoji": "🤝", "indonesian": "Kita = nous (toi + moi)" },
+            { "statement": "'Aku' est plus poli que 'Saya'", "is_true": false, "emoji": "🎭", "indonesian": "Saya est plus poli qu'aku" },
+            { "statement": "'Kami' exclut la personne à qui on parle", "is_true": true, "emoji": "👥", "indonesian": "Kami = nous (sans toi)" },
+            { "statement": "'Mereka' ne peut pas désigner des femmes", "is_true": false, "emoji": "🌍", "indonesian": "Mereka = ils ET elles" }
+          ]
+        },
+        {
+          "id": "j3-ex12",
+          "type": "memory",
+          "instruction": "Associe chaque pronom et son sens !",
+          "pairs": [
+            { "indonesian": "Saya", "french": "Je (poli)" },
+            { "indonesian": "Aku", "french": "Je (familier)" },
+            { "indonesian": "Kamu", "french": "Tu" },
+            { "indonesian": "Dia", "french": "Il / Elle" },
+            { "indonesian": "Kita", "french": "Nous (incl.)" },
+            { "indonesian": "Mereka", "french": "Ils / Elles" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jour4",
+      "number": 4,
+      "title": "Les mots interrogatifs : poser toutes les questions",
+      "duration": "35-40 min",
+      "objective": "Apprendre les 7 mots interrogatifs qui permettent de tout demander.",
+      "sections": [],
+      "grammar_rules": [
+        {
+          "id": "gr-j4-intonation",
+          "number": 1,
+          "title": "Méthode 1 — Intonation montante ↗",
+          "explanation": "La méthode la plus simple : prendre n'importe quelle phrase affirmative et monter la voix à la fin pour en faire une question.",
+          "example": { "indonesian": "Kamu dari Bali. → Kamu dari Bali? ↗", "french": "Tu viens de Bali. → Tu viens de Bali ?" },
+          "note": "Fonctionne avec n'importe quelle phrase. C'est le moyen le plus rapide de poser une question."
+        },
+        {
+          "id": "gr-j4-mot-interrogatif",
+          "number": 2,
+          "title": "Méthode 2 — Mot interrogatif (début ou fin)",
+          "explanation": "Ajouter un mot interrogatif dans la phrase. Le mot peut se placer AU DÉBUT ou À LA FIN de la phrase — les deux sont corrects.",
+          "example": { "indonesian": "Apa ini? = Ini apa? · Siapa nama kamu? = Nama kamu siapa?", "french": "C'est quoi? = C'est quoi? · C'est quoi ton nom? (dans les deux ordres)" },
+          "note": "L'indonésien est flexible sur la position du mot interrogatif."
+        }
+      ],
+      "vocabulary": [
+        { "id": "j4-v1", "indonesian": "Apa", "french": "Quoi / Que / Quel", "pronunciation": "a-pa", "example": "Apa ini? (C'est quoi ça?)", "note": "Le plus polyvalent. Couvre 'quoi', 'que', 'quel' et 'est-ce que'." },
+        { "id": "j4-v2", "indonesian": "Siapa", "french": "Qui", "pronunciation": "si-A-pa", "example": "Siapa nama kamu?", "note": null },
+        { "id": "j4-v3", "indonesian": "Di mana", "french": "Où (position)", "pronunciation": "di ma-na", "example": "Di mana toilet?", "note": "Pour la position statique. Ne pas confondre avec 'ke mana' (direction)." },
+        { "id": "j4-v4", "indonesian": "Ke mana", "french": "Vers où (direction)", "pronunciation": "kə ma-na", "example": "Ke mana? (Tu vas où?)", "note": "Mouvement/direction. 'Di mana' = où est. 'Ke mana' = où tu vas." },
+        { "id": "j4-v5", "indonesian": "Dari mana", "french": "D'où (origine)", "pronunciation": "da-ri ma-na", "example": "Kamu dari mana?", "note": "Origine. 'Dari mana?' = D'où tu viens?" },
+        { "id": "j4-v6", "indonesian": "Berapa", "french": "Combien", "pronunciation": "bə-RA-pa", "example": "Ini berapa? (C'est combien?)", "note": "Le mot le plus utilisé à Bali après 'terima kasih'." },
+        { "id": "j4-v7", "indonesian": "Bagaimana", "french": "Comment", "pronunciation": "ba-gai-MA-na", "example": "Bagaimana kabar?", "note": "Kabar = nouvelles. 'Bagaimana kabar?' = Comment vas-tu?" },
+        { "id": "j4-v8", "indonesian": "Kenapa", "french": "Pourquoi", "pronunciation": "kə-NA-pa", "example": "Kenapa mahal?", "note": "Se place plutôt en début de phrase." },
+        { "id": "j4-v9", "indonesian": "Kapan", "french": "Quand", "pronunciation": "KA-pan", "example": "Kapan buka?", "note": "Se place plutôt en début de phrase." },
+        { "id": "j4-v10", "indonesian": "Jam berapa", "french": "Quelle heure ?", "pronunciation": "djam bə-RA-pa", "example": "Jam berapa sekarang?", "note": "Jam = heure/montre" }
+      ],
+      "exercises": [
+        {
+          "id": "j4-ex1",
+          "type": "mcq",
+          "question": "Tu veux savoir le prix d'un sarong. Tu demandes :",
+          "options": ["Siapa ini?", "Berapa ini?", "Kenapa ini?", "Kapan ini?"],
+          "correctIndex": 1
+        },
+        {
+          "id": "j4-ex2",
+          "type": "mcq",
+          "question": "Tu cherches les toilettes. Tu demandes :",
+          "options": ["Ke mana toilet?", "Di mana toilet?", "Dari mana toilet?", "Apa toilet?"],
+          "correctIndex": 1
+        },
+        {
+          "id": "j4-ex3",
+          "type": "mcq",
+          "question": "Tu veux savoir le nom du serveur. Tu demandes :",
+          "options": ["Apa nama kamu?", "Berapa nama kamu?", "Siapa nama kamu?", "Kapan nama kamu?"],
+          "correctIndex": 2
+        },
+        {
+          "id": "j4-ex4",
+          "type": "mcq",
+          "question": "On te sert un plat inconnu. Tu demandes :",
+          "options": ["Siapa ini?", "Berapa ini?", "Apa ini?", "Kapan ini?"],
+          "correctIndex": 2
+        },
+        {
+          "id": "j4-ex5",
+          "type": "mcq",
+          "question": "Tu veux savoir quand le magasin ouvre. Tu demandes :",
+          "options": ["Berapa buka?", "Di mana buka?", "Siapa buka?", "Kapan buka?"],
+          "correctIndex": 3
+        },
+        {
+          "id": "j4-ex6",
+          "type": "mcq",
+          "question": "Tu demandes comment aller au temple (pura). Tu dis :",
+          "options": ["Kenapa ke pura?", "Bagaimana ke pura?", "Siapa ke pura?", "Kapan ke pura?"],
+          "correctIndex": 1
+        },
+        {
+          "id": "j4-ex7",
+          "type": "mcq",
+          "question": "'Apa kabar?' signifie :",
+          "options": ["C'est quoi ton nom?", "Tu vas où?", "Comment vas-tu?", "Tu viens d'où?"],
+          "correctIndex": 2
+        },
+        {
+          "id": "j4-ex8",
+          "type": "reveal",
+          "question": "Traduis : 'Où est l'hôtel ?'",
+          "answer": "Di mana hotel? (ou : Hotel di mana?)"
+        },
+        {
+          "id": "j4-ex9",
+          "type": "reveal",
+          "question": "Traduis : 'C'est combien ?'",
+          "answer": "Berapa? (ou : Ini berapa?)"
+        },
+        {
+          "id": "j4-ex10",
+          "type": "reveal",
+          "question": "Traduis : 'Tu vas où ?'",
+          "answer": "Kamu mau ke mana?"
+        },
+        {
+          "id": "j4-ex11",
+          "type": "matching",
+          "instruction": "Associe chaque mot interrogatif à son sens en français.",
+          "pairs": [
+            { "left": "Apa", "right": "Quoi / Que" },
+            { "left": "Siapa", "right": "Qui" },
+            { "left": "Berapa", "right": "Combien" },
+            { "left": "Kapan", "right": "Quand" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jour5",
+      "number": 5,
+      "title": "Les mots-outils de survie",
+      "duration": "35-45 min",
+      "objective": "Apprendre les 14 mots-outils pour exprimer une envie, vérifier une disponibilité, désigner un objet et connecter des idées.",
+      "sections": [],
+      "grammar_rules": [
+        {
+          "id": "gr-j5-ada",
+          "number": 1,
+          "title": "ADA — le mot le plus polyvalent",
+          "explanation": "'Ada' couvre 'il y a', 'avoir', 'être présent', 'exister'. Contraire : 'tidak ada'. La question 'Sudah makan?' (t'as déjà mangé?) est une forme de salutation en Indonésie.",
+          "example": { "indonesian": "Ada WiFi? — Ada! / Tidak ada.", "french": "Y a du WiFi? — Oui! / Non." },
+          "note": "Demander 'Sudah makan?' est un geste de bienveillance — les Indonésiens vérifient que tu as mangé."
+        },
+        {
+          "id": "gr-j5-mau",
+          "number": 2,
+          "title": "MAU — triple usage (vouloir / aller / futur proche)",
+          "explanation": "'Mau' exprime le désir ('je veux'), l'intention ('je vais') et le futur proche. Pour être plus poli qu'avec 'mau', utiliser 'minta' (demander poliment).",
+          "example": { "indonesian": "Saya mau kopi. / Saya mau ke Ubud. / Mau minum apa?", "french": "Je veux un café. / Je vais à Ubud. / Tu veux boire quoi?" },
+          "note": null
+        }
+      ],
+      "vocabulary": [
+        { "id": "j5-v1", "indonesian": "mau", "french": "vouloir / aller (futur proche)", "pronunciation": "maou", "example": "Saya mau kopi.", "note": "Triple usage : désir, intention, futur" },
+        { "id": "j5-v2", "indonesian": "bisa", "french": "pouvoir / possible", "pronunciation": "BI-sa", "example": "Bisa masuk?", "note": null },
+        { "id": "j5-v3", "indonesian": "ada", "french": "il y a / avoir / exister", "pronunciation": "A-da", "example": "Ada WiFi?", "note": "Le mot le plus polyvalent du bahasa" },
+        { "id": "j5-v4", "indonesian": "tidak ada", "french": "il n'y a pas", "pronunciation": "TI-dak A-da", "example": "Tidak ada WiFi.", "note": null },
+        { "id": "j5-v5", "indonesian": "ini", "french": "ceci (proche)", "pronunciation": "I-ni", "example": "Ini apa?", "note": "Comme 'this' en anglais" },
+        { "id": "j5-v6", "indonesian": "itu", "french": "cela (loin)", "pronunciation": "I-tou", "example": "Itu berapa?", "note": "Comme 'that' en anglais" },
+        { "id": "j5-v7", "indonesian": "sudah", "french": "déjà / passé accompli", "pronunciation": "SOU-dah", "example": "Saya sudah makan.", "note": null },
+        { "id": "j5-v8", "indonesian": "belum", "french": "pas encore", "pronunciation": "bə-LOUM", "example": "Belum siap.", "note": "Réponse douce et polie" },
+        { "id": "j5-v9", "indonesian": "bagus", "french": "super / beau / bien", "pronunciation": "BA-gouss", "example": "Bagus!", "note": null },
+        { "id": "j5-v10", "indonesian": "baik", "french": "bon / bien (état)", "pronunciation": "ba-ik", "example": "Baik, terima kasih!", "note": null },
+        { "id": "j5-v11", "indonesian": "dan", "french": "et", "pronunciation": "dane", "example": "kopi dan teh", "note": null },
+        { "id": "j5-v12", "indonesian": "atau", "french": "ou", "pronunciation": "a-TAO", "example": "Ini atau itu?", "note": null },
+        { "id": "j5-v13", "indonesian": "dengan", "french": "avec", "pronunciation": "də-NGAN", "example": "kopi dengan gula", "note": null },
+        { "id": "j5-v14", "indonesian": "tanpa", "french": "sans", "pronunciation": "TAN-pa", "example": "kopi tanpa gula", "note": null },
+        { "id": "j5-v15", "indonesian": "besar", "french": "grand", "pronunciation": "bə-SAR", "example": "Rumah besar.", "note": null },
+        { "id": "j5-v16", "indonesian": "kecil", "french": "petit", "pronunciation": "kə-TCHIL", "example": "Kecil sekali!", "note": null },
+        { "id": "j5-v17", "indonesian": "panas", "french": "chaud", "pronunciation": "PA-nass", "example": "kopi panas", "note": null },
+        { "id": "j5-v18", "indonesian": "dingin", "french": "froid", "pronunciation": "DI-nguine", "example": "air dingin", "note": null }
+      ],
+      "exercises": [
+        {
+          "id": "j5-ex1",
+          "type": "reveal",
+          "question": "Traduis : 'Y a du café ?'",
+          "answer": "Ada kopi?"
+        },
+        {
+          "id": "j5-ex2",
+          "type": "reveal",
+          "question": "Traduis : 'Je veux de l'eau froide.'",
+          "answer": "Saya mau air dingin."
+        },
+        {
+          "id": "j5-ex3",
+          "type": "reveal",
+          "question": "Traduis : 'Café avec du sucre, sans lait.'",
+          "answer": "Kopi dengan gula, tanpa susu."
+        },
+        {
+          "id": "j5-ex4",
+          "type": "reveal",
+          "question": "Traduis : 'C'est possible de payer par carte ?'",
+          "answer": "Bisa bayar kartu?"
+        },
+        {
+          "id": "j5-ex5",
+          "type": "reveal",
+          "question": "Traduis : 'T'as mangé ?' (salutation courante)",
+          "answer": "Sudah makan?"
+        },
+        {
+          "id": "j5-ex6",
+          "type": "reveal",
+          "question": "Comment répondre 'pas encore' ?",
+          "answer": "Belum."
+        },
+        {
+          "id": "j5-ex7",
+          "type": "mcq",
+          "question": "Comment dit-on 'Y a du WiFi ?' en indonésien ?",
+          "options": ["Mau WiFi?", "Ada WiFi?", "Bisa WiFi?", "Ini WiFi?"],
+          "correctIndex": 1
+        },
+        {
+          "id": "j5-ex8",
+          "type": "mcq",
+          "question": "Café ou thé ? → en indonésien :",
+          "options": ["Kopi dan teh?", "Kopi dengan teh?", "Kopi atau teh?", "Kopi tanpa teh?"],
+          "correctIndex": 2
+        },
+        {
+          "id": "j5-ex9",
+          "type": "mcq",
+          "question": "Pour pointer un objet proche et demander 'c'est quoi ça ?', on dit :",
+          "options": ["Itu apa?", "Ini apa?", "Ada apa?", "Mau apa?"],
+          "correctIndex": 1
+        },
+        {
+          "id": "j5-ex10",
+          "type": "mcq",
+          "question": "'Tidak bisa.' signifie :",
+          "options": ["Je ne veux pas.", "Il n'y a pas.", "Ce n'est pas possible.", "Pas encore."],
+          "correctIndex": 2
+        },
+        {
+          "id": "j5-ex11",
+          "type": "sentence_builder",
+          "instruction": "Construis la phrase : 'Café avec du sucre.'",
+          "words": ["kopi", "dengan", "gula", "tanpa", "susu", "mau"],
+          "correctSentence": ["kopi", "dengan", "gula"]
+        },
+        {
+          "id": "j5-ex12",
+          "type": "sentence_builder",
+          "instruction": "Construis la question : 'Y a du WiFi ?'",
+          "words": ["Ada", "WiFi", "?", "Mau", "Bisa", "tidak"],
+          "correctSentence": ["Ada", "WiFi", "?"]
+        }
+      ]
+    },
+    {
+      "id": "jour6",
+      "number": 6,
+      "title": "Le système temporel + vocabulaire utile",
+      "duration": "35-45 min",
+      "objective": "Exprimer le passé, le présent et le futur sans jamais changer le verbe. Acquérir le vocabulaire du quotidien.",
+      "sections": [],
+      "grammar_rules": [
+        {
+          "id": "gr-j6-temps",
+          "number": 1,
+          "title": "Les 5 marqueurs temporels — le verbe ne change jamais",
+          "explanation": "En indonésien, le temps s'exprime en ajoutant un petit mot DEVANT le verbe. Le verbe reste identique dans tous les cas.",
+          "example": { "indonesian": "Saya makan / sudah makan / sedang makan / mau makan / belum makan", "french": "Je mange / j'ai mangé / je suis en train de manger / je vais manger / je n'ai pas encore mangé" },
+          "note": "Le contexte peut suffire à indiquer le temps : 'Kemarin saya makan...' (hier) n'a pas besoin de 'sudah'."
+        },
+        {
+          "id": "gr-j6-contexte",
+          "number": 2,
+          "title": "Les marqueurs de temps sont optionnels avec des adverbes temporels",
+          "explanation": "Quand un mot de temps est déjà présent dans la phrase (kemarin, besok, sekarang), le marqueur temporel devient optionnel.",
+          "example": { "indonesian": "Kemarin saya makan nasi goreng. / Besok saya pergi ke Ubud.", "french": "Hier j'ai mangé du nasi goreng. / Demain je vais à Ubud." },
+          "note": null
+        }
+      ],
+      "vocabulary": [
+        { "id": "j6-v1", "indonesian": "sudah", "french": "déjà / passé accompli", "pronunciation": "SOU-dah", "example": "Saya sudah makan.", "note": "Marqueur de passé" },
+        { "id": "j6-v2", "indonesian": "sedang", "french": "en train de (présent continu)", "pronunciation": "SÉ-dang", "example": "Saya sedang makan.", "note": "Marqueur de présent en cours" },
+        { "id": "j6-v3", "indonesian": "mau", "french": "vouloir / futur proche", "pronunciation": "maou", "example": "Saya mau makan.", "note": "Marqueur de futur proche / intention" },
+        { "id": "j6-v4", "indonesian": "akan", "french": "futur (formel)", "pronunciation": "A-kan", "example": "Saya akan makan.", "note": "Futur plus formel / prévu" },
+        { "id": "j6-v5", "indonesian": "belum", "french": "pas encore", "pronunciation": "bə-LOUM", "example": "Saya belum makan.", "note": "Négatif doux" },
+        { "id": "j6-v6", "indonesian": "air", "french": "eau", "pronunciation": "a-ir (2 syllabes)", "example": "Saya mau air.", "note": "Attention : 2 syllabes, pas 'ère' !" },
+        { "id": "j6-v7", "indonesian": "air putih", "french": "eau plate", "pronunciation": "a-ir pou-tih", "example": "Ada air putih?", "note": "Littéralement 'eau blanche'" },
+        { "id": "j6-v8", "indonesian": "kopi", "french": "café", "pronunciation": "KO-pi", "example": "Saya mau kopi panas.", "note": null },
+        { "id": "j6-v9", "indonesian": "teh", "french": "thé", "pronunciation": "tèh", "example": "teh manis (thé sucré)", "note": "Prononcer le h final" },
+        { "id": "j6-v10", "indonesian": "susu", "french": "lait", "pronunciation": "SOU-sou", "example": "kopi tanpa susu", "note": "u = ou !" },
+        { "id": "j6-v11", "indonesian": "gula", "french": "sucre", "pronunciation": "GOU-la", "example": "kopi dengan gula", "note": "gula merah = sucre de palme (brun)" },
+        { "id": "j6-v12", "indonesian": "es", "french": "glace / glaçons", "pronunciation": "èss", "example": "es teh (thé glacé)", "note": null },
+        { "id": "j6-v13", "indonesian": "baru", "french": "nouveau", "pronunciation": "BA-rou", "example": "teman baru (nouvel ami)", "note": null },
+        { "id": "j6-v14", "indonesian": "lama", "french": "vieux / ancien / longtemps", "pronunciation": "LA-ma", "example": "Sudah lama! (Ça fait longtemps!)", "note": null },
+        { "id": "j6-v15", "indonesian": "cepat", "french": "rapide", "pronunciation": "TCHÉ-pat", "example": "Cepat sekali!", "note": "c = tch" },
+        { "id": "j6-v16", "indonesian": "pelan", "french": "lent / doucement", "pronunciation": "PÉ-lan", "example": "Pelan-pelan. (Doucement.)", "note": null },
+        { "id": "j6-v17", "indonesian": "dekat", "french": "proche", "pronunciation": "DÉ-kat", "example": "Dekat dari sini.", "note": null },
+        { "id": "j6-v18", "indonesian": "jauh", "french": "loin", "pronunciation": "dja-OUH", "example": "Tidak jauh.", "note": null },
+        { "id": "j6-v19", "indonesian": "hari ini", "french": "aujourd'hui", "pronunciation": "HA-ri I-ni", "example": "Hari ini saya mau ke pantai.", "note": "hari = jour, ini = ceci" },
+        { "id": "j6-v20", "indonesian": "kemarin", "french": "hier", "pronunciation": "kə-MA-rin", "example": "Kemarin saya makan nasi goreng.", "note": null },
+        { "id": "j6-v21", "indonesian": "besok", "french": "demain", "pronunciation": "BÉ-sok", "example": "Besok saya pergi.", "note": null },
+        { "id": "j6-v22", "indonesian": "sekarang", "french": "maintenant", "pronunciation": "sə-KA-rang", "example": "Sekarang saya sedang belajar.", "note": null },
+        { "id": "j6-v23", "indonesian": "teman", "french": "ami", "pronunciation": "tə-MANE", "example": "Dia teman saya.", "note": null },
+        { "id": "j6-v24", "indonesian": "pantai", "french": "plage", "pronunciation": "PAN-tai", "example": "Saya mau ke pantai.", "note": null }
+      ],
+      "exercises": [
+        {
+          "id": "j6-ex1",
+          "type": "mcq",
+          "question": "'J'ai déjà mangé.' → Saya ___ makan.",
+          "options": ["sedang", "sudah", "mau", "belum"],
+          "correctIndex": 1
+        },
+        {
+          "id": "j6-ex2",
+          "type": "mcq",
+          "question": "'Je suis en train de manger.' → Saya ___ makan.",
+          "options": ["sudah", "belum", "sedang", "akan"],
+          "correctIndex": 2
+        },
+        {
+          "id": "j6-ex3",
+          "type": "mcq",
+          "question": "'Je vais manger.' → Saya ___ makan.",
+          "options": ["sudah", "sedang", "belum", "mau"],
+          "correctIndex": 3
+        },
+        {
+          "id": "j6-ex4",
+          "type": "mcq",
+          "question": "'Je n'ai pas encore mangé.' → Saya ___ makan.",
+          "options": ["sudah", "sedang", "mau", "belum"],
+          "correctIndex": 3
+        },
+        {
+          "id": "j6-ex5",
+          "type": "reveal",
+          "question": "Traduis : 'Je veux un café chaud.'",
+          "answer": "Saya mau kopi panas."
+        },
+        {
+          "id": "j6-ex6",
+          "type": "reveal",
+          "question": "Traduis : 'Y a de l'eau froide ?'",
+          "answer": "Ada air dingin?"
+        },
+        {
+          "id": "j6-ex7",
+          "type": "reveal",
+          "question": "Traduis : 'Hier j'ai mangé du nasi goreng.'",
+          "answer": "Kemarin saya makan nasi goreng. (ou : Kemarin saya sudah makan nasi goreng.)"
+        },
+        {
+          "id": "j6-ex8",
+          "type": "reveal",
+          "question": "Traduis : 'Les gens de Bali sont très gentils.'",
+          "answer": "Orang Bali baik sekali."
+        },
+        {
+          "id": "j6-ex9",
+          "type": "reveal",
+          "question": "Traduis : 'Aujourd'hui je vais à la plage.'",
+          "answer": "Hari ini saya mau ke pantai."
+        }
+      ]
+    },
+    {
+      "id": "jour7",
+      "number": 7,
+      "title": "Grande révision + dialogues de pratique",
+      "duration": "40-50 min",
+      "objective": "Consolider tout le contenu de la semaine. Pas de nouveau vocabulaire. Lire des dialogues réels, faire les exercices, s'auto-évaluer.",
+      "sections": [],
+      "vocabulary": [],
+      "exercises": [
+        {
+          "id": "j7-dialogue-1",
+          "type": "dialogue_completion",
+          "instruction": "Dialogue à l'aéroport de Bali. Complète les répliques du voyageur.",
+          "lines": [
+            {
+              "speaker": "agent",
+              "text": "Selamat datang! Nama Anda siapa?"
+            },
+            {
+              "speaker": "user",
+              "prompt": "Présente-toi (dis ton nom)",
+              "options": ["Nama saya Anas.", "Saya dari Paris.", "Berapa harganya?", "Selamat tinggal!"],
+              "correctIndex": 0
+            },
+            {
+              "speaker": "agent",
+              "text": "Dari mana Anda?"
+            },
+            {
+              "speaker": "user",
+              "prompt": "Dis d'où tu viens (France)",
+              "options": ["Saya orang Bali.", "Saya dari Prancis.", "Saya sudah makan.", "Tidak ada."],
+              "correctIndex": 1
+            },
+            {
+              "speaker": "agent",
+              "text": "Mau pergi ke mana?"
+            },
+            {
+              "speaker": "user",
+              "prompt": "Dis que tu veux aller à Ubud",
+              "options": ["Saya mau ke Ubud.", "Saya mau kopi.", "Di mana toilet?", "Berapa harga tiket?"],
+              "correctIndex": 0
+            },
+            {
+              "speaker": "agent",
+              "text": "Baik, selamat jalan dan selamat tinggal di Bali!"
+            },
+            {
+              "speaker": "user",
+              "prompt": "Remercie et dis au revoir",
+              "options": ["Maaf!", "Permisi saja.", "Terima kasih banyak! Sampai jumpa!", "Tidak bisa."],
+              "correctIndex": 2
+            }
+          ]
+        },
+        {
+          "id": "j7-auto-1",
+          "type": "reveal",
+          "question": "Dis bonjour pour 9h du matin.",
+          "answer": "Selamat pagi!"
+        },
+        {
+          "id": "j7-auto-2",
+          "type": "reveal",
+          "question": "Dis bonjour pour 14h.",
+          "answer": "Selamat siang!"
+        },
+        {
+          "id": "j7-auto-3",
+          "type": "reveal",
+          "question": "Dis 'merci beaucoup'.",
+          "answer": "Terima kasih banyak!"
+        },
+        {
+          "id": "j7-auto-4",
+          "type": "reveal",
+          "question": "Dis 'de rien'.",
+          "answer": "Sama-sama!"
+        },
+        {
+          "id": "j7-auto-5",
+          "type": "reveal",
+          "question": "Présente-toi (nom + nationalité + ville).",
+          "answer": "Nama saya [prénom]. Saya orang Prancis. Saya dari Paris."
+        },
+        {
+          "id": "j7-auto-6",
+          "type": "reveal",
+          "question": "Demande 'c'est quoi ça ?'",
+          "answer": "Apa ini? (ou : Ini apa?)"
+        },
+        {
+          "id": "j7-auto-7",
+          "type": "reveal",
+          "question": "Demande 'c'est combien ?'",
+          "answer": "Berapa? (ou : Ini berapa?)"
+        },
+        {
+          "id": "j7-auto-8",
+          "type": "reveal",
+          "question": "Demande 'où sont les toilettes ?'",
+          "answer": "Di mana toilet?"
+        },
+        {
+          "id": "j7-auto-9",
+          "type": "reveal",
+          "question": "Dis 'je veux un café'.",
+          "answer": "Saya mau kopi."
+        },
+        {
+          "id": "j7-auto-10",
+          "type": "reveal",
+          "question": "Demande 'y a du WiFi ?'",
+          "answer": "Ada WiFi?"
+        },
+        {
+          "id": "j7-auto-11",
+          "type": "reveal",
+          "question": "Dis 'j'ai déjà mangé'.",
+          "answer": "Saya sudah makan."
+        },
+        {
+          "id": "j7-auto-12",
+          "type": "reveal",
+          "question": "Dis 'pas encore'.",
+          "answer": "Belum."
+        },
+        {
+          "id": "j7-auto-13",
+          "type": "reveal",
+          "question": "Dis 'café sans sucre'.",
+          "answer": "Kopi tanpa gula."
+        },
+        {
+          "id": "j7-auto-14",
+          "type": "reveal",
+          "question": "Demande 'tu viens d'où ?'",
+          "answer": "Kamu dari mana?"
+        },
+        {
+          "id": "j7-auto-15",
+          "type": "reveal",
+          "question": "Prononce correctement ces mots : cari, jalan, goreng.",
+          "answer": "cari → TCHa-ri · jalan → DJa-lane · goreng → go-RÈNG"
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Dialogue 1 — Arrivée à l'aéroport de Bali",
+          "context": "Nuit à l'aéroport Ngurah Rai. Le chauffeur Grab attend avec une pancarte.",
+          "lines": [
+            { "speaker": "Chauffeur", "indonesian": "Selamat malam! Anda Anas?", "french": "Bonsoir ! Vous êtes Anas ?", "isUser": false },
+            { "speaker": "Toi", "indonesian": "Ya, saya Anas. Selamat malam!", "french": "Oui, je suis Anas. Bonsoir !", "isUser": true },
+            { "speaker": "Chauffeur", "indonesian": "Senang berkenalan. Nama saya Wayan.", "french": "Enchanté. Mon nom est Wayan.", "isUser": false },
+            { "speaker": "Toi", "indonesian": "Senang berkenalan, Wayan. Saya orang Prancis.", "french": "Enchanté, Wayan. Je suis français.", "isUser": true },
+            { "speaker": "Chauffeur", "indonesian": "Oh, Prancis! Dari Paris?", "french": "Oh, la France ! De Paris ?", "isUser": false },
+            { "speaker": "Toi", "indonesian": "Ya, saya dari Paris. Terima kasih!", "french": "Oui, de Paris. Merci !", "isUser": true },
+            { "speaker": "Chauffeur", "indonesian": "Sama-sama! Mau ke hotel?", "french": "De rien ! On va à l'hôtel ?", "isUser": false },
+            { "speaker": "Toi", "indonesian": "Ya, tolong. Hotel di mana?", "french": "Oui, s'il vous plaît. L'hôtel c'est où ?", "isUser": true },
+            { "speaker": "Chauffeur", "indonesian": "Tidak jauh. Dua puluh menit.", "french": "Pas loin. 20 minutes.", "isUser": false },
+            { "speaker": "Toi", "indonesian": "Bagus! Terima kasih banyak.", "french": "Super ! Merci beaucoup.", "isUser": true }
+          ],
+          "new_words": ["jauh (loin)", "menit (minute)", "dua puluh (vingt — semaine 2)"]
+        },
+        {
+          "title": "Dialogue 2 — Premier café du matin",
+          "context": "Premier matin à Bali. Tu descends à la réception de ta villa pour prendre un café.",
+          "lines": [
+            { "speaker": "Toi", "indonesian": "Selamat pagi!", "french": "Bonjour !", "isUser": true },
+            { "speaker": "Staff", "indonesian": "Selamat pagi! Apa kabar?", "french": "Bonjour ! Comment allez-vous ?", "isUser": false },
+            { "speaker": "Toi", "indonesian": "Baik, terima kasih! Kamu?", "french": "Bien, merci ! Et toi ?", "isUser": true },
+            { "speaker": "Staff", "indonesian": "Baik juga! Sudah makan?", "french": "Bien aussi ! Déjà mangé ?", "isUser": false },
+            { "speaker": "Toi", "indonesian": "Belum! Saya mau kopi. Ada kopi Bali?", "french": "Pas encore ! Je veux un café. Y a du café Bali ?", "isUser": true },
+            { "speaker": "Staff", "indonesian": "Ada! Kopi panas atau kopi dingin?", "french": "Oui ! Café chaud ou café froid ?", "isUser": false },
+            { "speaker": "Toi", "indonesian": "Kopi panas, tolong. Dengan gula, tanpa susu.", "french": "Café chaud, s'il vous plaît. Avec sucre, sans lait.", "isUser": true },
+            { "speaker": "Staff", "indonesian": "Oke! Mau makan apa?", "french": "OK ! Vous voulez manger quoi ?", "isUser": false },
+            { "speaker": "Toi", "indonesian": "Apa ini?", "french": "C'est quoi ça ? (en pointant un plat)", "isUser": true },
+            { "speaker": "Staff", "indonesian": "Itu nasi goreng. Enak!", "french": "C'est du nasi goreng. C'est bon !", "isUser": false },
+            { "speaker": "Toi", "indonesian": "Bagus! Saya mau nasi goreng. Terima kasih!", "french": "Super ! Je veux du nasi goreng. Merci !", "isUser": true },
+            { "speaker": "Staff", "indonesian": "Sama-sama!", "french": "De rien !", "isUser": false }
+          ],
+          "new_words": ["juga (aussi)", "oke (OK)"]
+        },
+        {
+          "title": "Dialogue 3 — Rencontre avec un autre voyageur",
+          "context": "Dans un café à Canggu. Un Australien te parle en indonésien.",
+          "lines": [
+            { "speaker": "Jack", "indonesian": "Selamat siang! Kamu orang mana?", "french": "Bonjour ! Tu es de quel pays ?", "isUser": false },
+            { "speaker": "Toi", "indonesian": "Selamat siang! Saya orang Prancis. Dari Paris. Kamu?", "french": "Bonjour ! Je suis français. De Paris. Et toi ?", "isUser": true },
+            { "speaker": "Jack", "indonesian": "Saya orang Australia. Dari Sydney. Nama saya Jack.", "french": "Je suis australien. De Sydney. Mon nom est Jack.", "isUser": false },
+            { "speaker": "Toi", "indonesian": "Senang berkenalan, Jack! Kamu bisa bahasa Indonesia?", "french": "Enchanté, Jack ! Tu parles indonésien ?", "isUser": true },
+            { "speaker": "Jack", "indonesian": "Sedikit! Kamu juga bisa?", "french": "Un peu ! Toi aussi tu parles ?", "isUser": false },
+            { "speaker": "Toi", "indonesian": "Sedikit juga! Saya sedang belajar.", "french": "Un peu aussi ! Je suis en train d'apprendre.", "isUser": true },
+            { "speaker": "Jack", "indonesian": "Bagus! Kita belajar bersama!", "french": "Super ! On apprend ensemble !", "isUser": false }
+          ],
+          "new_words": ["sedikit (un peu)", "juga (aussi)", "belajar (apprendre)", "bersama (ensemble)"]
+        }
+      ]
+    }
+  ],
+  "annexe": {
+    "recap_by_day": [
+      {
+        "day": "jour1",
+        "label": "Jour 1 — Prononciation",
+        "key_points": ["c = tch", "j = dj", "g = toujours dur", "u = ou", "ng = nasal [ŋ]", "ny = gn", "h = toujours expiré", "r = roulé"]
+      },
+      {
+        "day": "jour2",
+        "label": "Jour 2 — Salutations & Politesse",
+        "vocabulary_ids": ["j2-v1","j2-v2","j2-v3","j2-v4","j2-v5","j2-v6","j2-v7","j2-v8","j2-v9","j2-v10","j2-v11","j2-v12","j2-v13","j2-v14","j2-v15","j2-v16","j2-v17"]
+      },
+      {
+        "day": "jour3",
+        "label": "Jour 3 — Pronoms & Présentation",
+        "vocabulary_ids": ["j3-v1","j3-v2","j3-v3","j3-v4","j3-v5","j3-v6","j3-v7","j3-v8","j3-v9","j3-v10","j3-v11","j3-v12","j3-v13"]
+      },
+      {
+        "day": "jour4",
+        "label": "Jour 4 — Interrogatifs",
+        "vocabulary_ids": ["j4-v1","j4-v2","j4-v3","j4-v4","j4-v5","j4-v6","j4-v7","j4-v8","j4-v9","j4-v10"]
+      },
+      {
+        "day": "jour5",
+        "label": "Jour 5 — Mots-outils",
+        "vocabulary_ids": ["j5-v1","j5-v2","j5-v3","j5-v4","j5-v5","j5-v6","j5-v7","j5-v8","j5-v9","j5-v10","j5-v11","j5-v12","j5-v13","j5-v14"]
+      },
+      {
+        "day": "jour6",
+        "label": "Jour 6 — Temps & Vocabulaire quotidien",
+        "vocabulary_ids": ["j6-v1","j6-v2","j6-v3","j6-v4","j6-v5","j6-v6","j6-v7","j6-v8","j6-v9","j6-v10","j6-v11","j6-v12","j6-v13","j6-v14","j6-v15","j6-v16","j6-v17","j6-v18","j6-v19","j6-v20","j6-v21","j6-v22","j6-v23","j6-v24"]
+      }
+    ],
+    "grammar_structures": [
+      {
+        "id": "gs-1",
+        "number": 1,
+        "rule": "Pas de conjugaison — le verbe ne change jamais",
+        "example_indonesian": "makan",
+        "example_french": "mange / mangé / mangerai → toujours makan"
+      },
+      {
+        "id": "gs-2",
+        "number": 2,
+        "rule": "Pas de verbe 'être' — juxtaposition",
+        "example_indonesian": "Saya orang Prancis",
+        "example_french": "Je [suis] personne France"
+      },
+      {
+        "id": "gs-3",
+        "number": 3,
+        "rule": "Question = phrase + mot interrogatif OU intonation ↗",
+        "example_indonesian": "Ini apa? · Kamu dari Bali? ↗",
+        "example_french": "C'est quoi? · Tu viens de Bali?"
+      },
+      {
+        "id": "gs-4",
+        "number": 4,
+        "rule": "Adjectif après le nom",
+        "example_indonesian": "kopi panas",
+        "example_french": "café chaud"
+      },
+      {
+        "id": "gs-5",
+        "number": 5,
+        "rule": "Temps = marqueur + verbe (verbe invariable)",
+        "example_indonesian": "sudah makan · sedang makan · mau makan",
+        "example_french": "j'ai mangé · je mange (en cours) · je vais manger"
+      },
+      {
+        "id": "gs-6",
+        "number": 6,
+        "rule": "Kita (nous inclusif) vs Kami (nous exclusif)",
+        "example_indonesian": "Kita makan! · Kami dari Prancis.",
+        "example_french": "On mange tous ensemble (toi inclus) · Nous venons de France (sans toi)"
+      }
+    ]
+  }
+}

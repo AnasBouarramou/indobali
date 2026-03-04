@@ -1,0 +1,73 @@
+.option {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  width: 100%;
+  padding: var(--space-3) var(--space-4);
+  background-color: var(--color-surface);
+  border: 1.5px solid var(--color-border);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  text-align: left;
+  font-family: var(--font-sans);
+  font-size: var(--text-base);
+  color: var(--color-text);
+  transition: border-color var(--transition-fast),
+    background-color var(--transition-fast),
+    transform var(--transition-fast);
+}
+
+.option:not(:disabled):hover {
+  border-color: var(--color-primary);
+  background-color: #fff5f5;
+  transform: translateX(3px);
+}
+
+.option:disabled {
+  cursor: default;
+}
+
+.dot {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  border-radius: var(--radius-full);
+  border: 2px solid var(--color-border);
+  transition: border-color var(--transition-fast),
+    background-color var(--transition-fast);
+}
+
+.label {
+  flex: 1;
+}
+
+/* States */
+.selected {
+  border-color: var(--color-primary);
+  background-color: #fff5f5;
+}
+
+.selected .dot {
+  border-color: var(--color-primary);
+  background-color: var(--color-primary);
+}
+
+.correct {
+  border-color: var(--color-success);
+  background-color: #f0fdf4;
+}
+
+.correct .dot {
+  border-color: var(--color-success);
+  background-color: var(--color-success);
+}
+
+.wrong {
+  border-color: #ef4444;
+  background-color: #fef2f2;
+}
+
+.wrong .dot {
+  border-color: #ef4444;
+  background-color: #ef4444;
+}

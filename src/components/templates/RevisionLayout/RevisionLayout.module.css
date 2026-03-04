@@ -1,0 +1,70 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: var(--color-bg);
+}
+
+.topBar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background-color: var(--color-surface);
+  border-bottom: 1px solid var(--color-border);
+  box-shadow: var(--shadow-sm);
+}
+
+.topBarInner {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: var(--space-3) var(--space-6);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+.flag { font-size: var(--text-xl); }
+
+.brandName {
+  font-size: var(--text-base);
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+.scoreBadge {
+  padding: var(--space-2) var(--space-4);
+  background-color: var(--color-success);
+  color: white;
+  border-radius: var(--radius-full);
+  font-size: var(--text-sm);
+}
+
+.navWrapper {
+  max-width: 900px;
+  margin: var(--space-4) auto 0;
+  padding: 0 var(--space-6);
+  width: 100%;
+}
+
+.main {
+  flex: 1;
+  padding: var(--space-6) var(--space-6) var(--space-12);
+}
+
+.mainInner {
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-8);
+}
+
+.revisionHeader {
+  /* Slot for day 7 header */
+}
